@@ -1,0 +1,17 @@
+﻿variable,descripción,tipo,origen,valores distintos,% nulos,valores más frecuentes
+periodo_cod,Periodo académico en que se registró la pérdida de cupo (AAAA-S),categórica,Derivada,9,0.0,"2021-1, 2024-1, 2024-2…"
+anio,Año del periodo académico,numérica,Derivada,6,0.0,"2024, 2022, 2021…"
+semestre,Semestre del periodo académico (1 o 2),numérica,Derivada,2,0.0,"1, 2"
+nombre_facultad,Facultad o seccional a la que pertenece el programa,categórica,Original,13,0.0,"ESTUDIOS A DISTANCIA, CIENCIAS DE LA EDUCACION, INGENIERIA…"
+nombre_programa,Programa académico de pregrado,categórica,Original,102,0.0,"TECNICA PROFESIONAL EN PROCESOS COMERCIALES Y FINANCIEROS, TECNICA PROFESIONAL EN PROCESOS ADMINISTRATIVOS DE SALUD, TECNOLOGIA EN OBRAS CIVILES…"
+nombre_sede,Sede o municipio donde se ofrece el programa,categórica,Original,19,0.0,"TUNJA, SOGAMOSO, DUITAMA…"
+modalidad,"Modalidad del programa: presencial, virtual o a distancia",categórica,Original,3,0.0,"PRESENCIAL, VIRTUAL, DISTANCIA"
+jornada,Jornada del programa,categórica,Original,5,0.0,"DIURNA, OTRA, EXTENDIDA…"
+genero,"Género del estudiante (F, M)",categórica,Original,2,0.0,"M, F"
+estrato,Estrato socioeconómico de la vivienda del estudiante,categórica,Original,5,0.0,"2, 1, 3…"
+edad,"Edad del estudiante al cierre del periodo, en años",numérica,Derivada,38,0.0,"21, 20, 19…"
+rango_edad,Rango de edad del estudiante,categórica,Derivada,5,0.0,"21-25, 16-20, 26-30…"
+origen_geografico,Municipio de origen del estudiante,categórica,Original,306,0.0,"TUNJA, SOGAMOSO, DUITAMA…"
+norma,Norma que define la causal de pérdida de cupo,categórica,Derivada,1,0.0,ACUERDO 130 DE 1998 (ART. 80)
+literal,Literal de la norma aplicado (A a E),categórica,Derivada,5,0.0,"C, B, E…"
+causal,Código corto de la causal: norma y literal,categórica,Derivada,5,0.0,"130-C, 130-B, 130-E…"
