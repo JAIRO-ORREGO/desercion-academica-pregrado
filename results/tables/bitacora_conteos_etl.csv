@@ -1,0 +1,7 @@
+﻿paso,filas antes,filas después,detalle
+3.1 Estandarización del texto,3372,3372,"categorías distintas: modalidad 5 → 3, jornada 5 → 5, estrato 7 → 5, origen_geografico 322 → 320"
+3.2 Unificación del periodo,3372,3372,11 etiquetas de texto convertidas a 11 códigos AAAA-S
+3.3 Filtro de pregrado,3372,3091,se excluyen 281 registros de posgrado
+3.4 Edad y rango de edad,3091,3091,edad entre 16 y 55 años; 5 rangos
+3.5 Causal de pérdida de cupo,3091,3091,5 etiquetas de texto convertidas a 5 códigos (norma-literal)
+3.6 Exclusión de variables sensibles,3091,3091,"columnas: 22 -> 16; se excluyen tipo_iden_est, lugar_expedicion, fecha_nacimiento"

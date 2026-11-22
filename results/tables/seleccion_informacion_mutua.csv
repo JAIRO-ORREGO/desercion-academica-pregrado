@@ -1,0 +1,10 @@
+﻿variable,informacion_mutua,seleccionada
+rango_edad,0.0465,Sí
+facultad_grupo,0.0304,Sí
+periodo_cod,0.0236,Sí
+sede_grupo,0.0182,Sí
+modalidad,0.0168,Sí
+jornada_grupo,0.0166,Sí
+estrato_grupo,0.0091,No
+genero,0.0016,No
+es_local,0.0005,No

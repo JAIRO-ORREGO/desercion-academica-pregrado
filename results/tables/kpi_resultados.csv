@@ -1,0 +1,40 @@
+kpi,variable,categoria,registros,valor_pct
+Participación por categoría (%),modalidad,PRESENCIAL,1849,59.8
+Participación por categoría (%),modalidad,VIRTUAL,705,22.8
+Participación por categoría (%),modalidad,DISTANCIA,537,17.4
+Participación por categoría (%),sede_grupo,TUNJA,1698,54.9
+Participación por categoría (%),sede_grupo,SOGAMOSO,426,13.8
+Participación por categoría (%),sede_grupo,DUITAMA,406,13.1
+Participación por categoría (%),sede_grupo,OTRAS SEDES,385,12.5
+Participación por categoría (%),sede_grupo,CHIQUINQUIRA,176,5.7
+Participación por categoría (%),facultad_grupo,ESTUDIOS A DISTANCIA,1136,36.8
+Participación por categoría (%),facultad_grupo,CIENCIAS DE LA EDUCACION,526,17.0
+Participación por categoría (%),facultad_grupo,INGENIERIA,293,9.5
+Participación por categoría (%),facultad_grupo,SECCIONAL DUITAMA,271,8.8
+Participación por categoría (%),facultad_grupo,SECCIONAL SOGAMOSO,264,8.5
+Participación por categoría (%),facultad_grupo,CIENCIAS ECONOMICAS Y ADMINISTRATIVAS,186,6.0
+Participación por categoría (%),facultad_grupo,CIENCIAS,178,5.8
+Participación por categoría (%),facultad_grupo,SECCIONAL CHIQUINQUIRA,80,2.6
+Participación por categoría (%),facultad_grupo,CIENCIAS AGROPECUARIAS,80,2.6
+Participación por categoría (%),facultad_grupo,DERECHO Y CIENCIAS SOCIALES,43,1.4
+Participación por categoría (%),facultad_grupo,CIENCIAS DE LA SALUD,31,1.0
+Participación por categoría (%),facultad_grupo,OTRAS,3,0.1
+Variación entre periodos (%),periodo_cod,2020-1,4,
+Variación entre periodos (%),periodo_cod,2021-1,606,
+Variación entre periodos (%),periodo_cod,2022-1,344,
+Variación entre periodos (%),periodo_cod,2022-2,352,2.3
+Variación entre periodos (%),periodo_cod,2023-1,278,-21.0
+Variación entre periodos (%),periodo_cod,2023-2,312,12.2
+Variación entre periodos (%),periodo_cod,2024-1,404,29.5
+Variación entre periodos (%),periodo_cod,2024-2,397,-1.7
+Variación entre periodos (%),periodo_cod,2025-1,394,-0.8
+Concentración en las tres facultades con más registros (%),nombre_facultad,ESTUDIOS A DISTANCIA + CIENCIAS DE LA EDUCACION + INGENIERIA,1955,63.2
+Participación por causal (%),causal,130-C,1021,33.0
+Participación por causal (%),causal,130-B,880,28.5
+Participación por causal (%),causal,130-E,672,21.7
+Participación por causal (%),causal,130-D,510,16.5
+Participación por causal (%),causal,130-A,8,0.3
+Calidad del dato (%),estrato (vacío o “SIN INFORMACIÓN”),registros inconsistentes o genéricos,57,1.8
+Calidad del dato (%),modalidad (escrita en mayúsculas),registros inconsistentes o genéricos,4,0.1
+Calidad del dato (%),jornada (“DIURNA - NOCTURA”),registros inconsistentes o genéricos,4,0.1
+Calidad del dato (%),periodo (fuera del formato común),registros inconsistentes o genéricos,610,19.7

@@ -1,0 +1,11 @@
+control,valor,diferencia_con_fuente
+"Registros de pregrado en la fuente (API, sin posgrado)",3091,0.0
+Registros en la tabla de hechos,3091,0.0
+Suma de n_registros en la tabla de hechos,3091,0.0
+Registros de hechos sin dimensión asociada,0,
+Suma de registros por dim_periodo,3091,0.0
+Suma de registros por dim_programa,3091,0.0
+Suma de registros por dim_sede,3091,0.0
+Suma de registros por dim_oferta,3091,0.0
+Suma de registros por dim_causal,3091,0.0
+Suma de registros por dim_perfil,3091,0.0

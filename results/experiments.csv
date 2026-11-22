@@ -1,0 +1,10 @@
+﻿fecha,cuaderno,celda,proceso,parametros,semilla,resultado,archivo_de_salida
+2026-10-26,Desercion_academica_ETL_EDA.ipynb,3.1-3.6,ETL,API 3iew-7wpx; filtro de pregrado por nombre del programa,,3372 -> 3091 registros; 16 columnas,data/processed/desercion_academica_pregrado_limpio.csv
+2026-11-18,Desercion_academica_ACA2.ipynb,4,Selección de variables por información mutua,mutual_info_classif; discrete_features=True; umbral=0.01,42,6 de 9 variables seleccionadas; máxima: rango_edad (0.0465),results/tables/seleccion_informacion_mutua.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,6,Prueba chi-cuadrado H1 (bondad de ajuste),alfa=0.05; bootstrap de percentiles B=2000,42,chi2=178.73; gl=7; p=3.61e-35; V=0.091; IC95=[0.077; 0.107]; n=3087,results/tables/pruebas_hipotesis.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,6,Prueba chi-cuadrado H2 (independencia),alfa=0.05; bootstrap de percentiles B=2000,42,chi2=171.66; gl=30; p=8.55e-22; V=0.136; IC95=[0.127; 0.167]; n=3080,results/tables/pruebas_hipotesis.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,6,Prueba chi-cuadrado H3 (independencia),alfa=0.05; bootstrap de percentiles B=2000,42,chi2=94.81; gl=14; p=4.65e-14; V=0.124; IC95=[0.108; 0.158]; n=3087,results/tables/pruebas_hipotesis.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,7,Limitaciones de calidad (objetivo específico 3),base original de la API,,9 limitaciones documentadas,results/tables/limitaciones_calidad.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,8,Modelo dimensional y validación de totales,1 tabla de hechos + 6 dimensiones,,3091 hechos; diferencia máxima con la fuente: 0,data/processed/modelo_estrella/; results/tables/validacion_totales.csv
+2026-11-20,Desercion_academica_ACA2.ipynb,8,KPI de la Tabla 1,variación solo entre semestres consecutivos,,concentración en las 3 facultades principales: 63.2 %,results/tables/kpi_resultados.csv
+2026-11-21,Desercion_academica_ACA2.ipynb,9,KPI por programa y referencia de los KPI,referencia: reparto uniforme,,10 programas principales: 38.6 % (referencia 8.8 %; 4.4 veces),results/tables/kpi_top10_programas.csv; results/tables/kpi_referencias.csv

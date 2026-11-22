@@ -1,0 +1,7 @@
+﻿variable,fórmula,justificación
+sede_grupo,"Tunja, Sogamoso, Duitama y Chiquinquirá; el resto = «OTRAS SEDES»",Las 15 sedes restantes tienen entre 1 y 75 registros; agruparlas asegura frecuencias suficientes para la prueba chi-cuadrado
+facultad_grupo,Facultades con menos de 10 registros = «OTRAS»,Seccional Tunja (2) y Sede Regional Aguazul (1) no permiten comparaciones válidas
+estrato_grupo,Estratos 3 y 4 = «3 O MÁS»,El estrato 4 tiene solo 19 registros
+jornada_grupo,«DIURNA - NOCTURNA» = «OTRA»,La categoría tiene solo 4 registros
+es_local,1 si municipio de origen = municipio de la sede; 0 en otro caso,"Variable del dominio: aproxima si el estudiante se separó de su comunidad de origen, etapa que Tinto (1993) asocia con la integración y la permanencia"
+periodo_orden,Número consecutivo del periodo académico (1 = 2020-1 … 9 = 2025-1),Permite ordenar los periodos y calcular la variación entre periodos (KPI de la Tabla 1)
